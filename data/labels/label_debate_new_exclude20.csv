@@ -1,0 +1,150 @@
+debat,segmen,part,sub,me,eks,au,label
+1,AnD_1,AnD_1_Anies_1,Anies,1,repression,14,4
+1,AnD_1,AnD_1_Anies_2,Anies,1,surprise,1,5
+1,AnD_1,AnD_1_Anies_2,Anies,2,others,28,2
+1,AnD_1,AnD_1_Anies_2,Anies,3,surprise,1+26,5
+1,AnD_1,AnD_1_Prabowo_2,Prabowo,1,others,22 half,2
+1,AnD_1,AnD_2_Ganjar_1,Ganjar,1,surprise,1,5
+1,AnD_1,AnD_2_Ganjar_1,Ganjar,2,happiness,12,1
+1,AnD_1,AnD_2_Prabowo_1,Prabowo,1,happiness,12 half,1
+1,AnD_2,AnD_1_Anies_2,Anies,1,surprise,1,5
+1,AnD_2,AnD_1_Anies_2,Anies,2,surprise,1,5
+1,AnD_2,AnD_1_Prabowo_2,Prabowo,1,others,4,2
+1,AnD_2,AnD_2_Ganjar_1,Ganjar,1,surprise,1,5
+1,QnA_1,QnA_1_Anies,Anies,1,surprise,1,5
+1,QnA_1,QnA_2_Anies,Anies,1,others,28,2
+1,QnA_1,QnA_2_Anies,Anies,3,surprise,1,5
+1,QnA_1,QnA_2_Ganjar_1,Ganjar,1,repression,17,4
+1,QnA_1,QnA_2_Ganjar_1,Ganjar,3,others,17,2
+1,QnA_1,QnA_2_Ganjar_1,Ganjar,4,surprise,1,5
+1,QnA_1,QnA_3_Ganjar,Ganjar,1,disgust,10,3
+1,QnA_2,QnA_1_Ganjar_1,Ganjar,2,happiness,12 half,1
+1,QnA_2,QnA_1_Ganjar_1,Ganjar,3,others,4 angr,2
+1,QnA_2,QnA_1_Ganjar_2,Ganjar,1,surprise,1,5
+1,QnA_2,QnA_1_Prabowo,Prabowo,1,others,12 half,2
+1,QnA_2,QnA_2_Anies_1,Anies,1,surprise,1,5
+1,QnA_2,QnA_2_Ganjar,Ganjar,1,others,24,2
+1,QnA_2,QnA_2_Ganjar,Ganjar,2,happiness,6+12,1
+1,QnA_2,QnA_3_Anies,Anies,1,others,23,2
+1,QnA_2,QnA_3_Ganjar,Ganjar,1,others,4 + kombinasi  20+26,2
+1,QnA_2,QnA_3_Prabowo_1,Prabowo,1,happiness,12,1
+2,AnD_1,AnD_1_Anies_1,Anies,2,repression,14,4
+2,AnD_1,AnD_1_Anies_1,Anies,3,surprise,1+26,5
+2,AnD_1,AnD_1_Anies_1,Anies,5,others,23,2
+2,AnD_1,AnD_1_Anies_1,Anies,7,surprise,1+26,5
+2,AnD_1,AnD_1_Anies_2,Anies,1,surprise,1+26,5
+2,AnD_1,AnD_1_Anies_2,Anies,2,surprise,1,5
+2,AnD_1,AnD_1_Anies_2,Anies,4,others,28,2
+2,AnD_1,AnD_1_Anies_2,Anies,5,happiness,12 half,1
+2,AnD_1,AnD_1_Ganjar_1,Ganjar,1,happiness,12,1
+2,AnD_1,AnD_1_Ganjar_1,Ganjar,2,others,23,2
+2,AnD_1,AnD_1_Ganjar_2,Ganjar,1,fear,20+25,6
+2,AnD_1,AnD_2_Anies_1,Anies,2,surprise,1,5
+2,AnD_1,AnD_2_Anies_1,Anies,3,surprise,1,5
+2,AnD_1,AnD_2_Anies_1,Anies,4,surprise,1,5
+2,AnD_1,AnD_2_Anies_1,Anies,5,others,28,2
+2,AnD_1,AnD_2_Anies_1,Anies,6,others,28,2
+2,AnD_1,AnD_2_Anies_2,Anies,1,surprise,1,5
+2,AnD_1,AnD_2_Anies_2,Anies,2,surprise,1,5
+2,AnD_1,AnD_2_Prabowo_1,Prabowo,1,others,4+lips,2
+2,AnD_1,AnD_2_Prabowo_1,Prabowo,2,others,23,2
+2,AnD_1,AnD_2_Prabowo_1,Prabowo,3,others,23,2
+2,AnD_1,AnD_2_Prabowo_1,Prabowo,4,others,4,2
+2,AnD_1,AnD_3_Ganjar_1,Ganjar,1,happiness,12,1
+2,AnD_1,AnD_3_Ganjar_2,Ganjar,1,happiness,12,1
+2,AnD_1,AnD_3_Ganjar_2,Ganjar,2,happiness,12,1
+2,AnD_1,AnD_3_Prabowo_2,Prabowo,1,surprise,1,5
+2,AnD_2,AnD_1_Anies_1,Anies,2,others,23,2
+2,AnD_2,AnD_1_Anies_2,Anies,1,surprise,1,5
+2,AnD_2,AnD_1_Anies_2,Anies,2,surprise,1,5
+2,AnD_2,AnD_1_Anies_2,Anies,3,surprise,1,5
+2,AnD_2,AnD_1_Anies_2,Anies,4,surprise,1,5
+2,AnD_2,AnD_1_Anies_2,Anies,5,surprise,1,5
+2,AnD_2,AnD_1_Anies_2,Anies,6,others,23,2
+2,AnD_2,AnD_1_Anies_2,Anies,7,surprise,1,5
+2,AnD_2,AnD_1_Ganjar_1,Ganjar,1,repression,14,4
+2,AnD_2,AnD_1_Ganjar_1,Ganjar,2,happiness,12 half,1
+2,AnD_2,AnD_1_Ganjar_1,Ganjar,3,surprise,1+26,5
+2,AnD_2,AnD_1_Ganjar_2,Ganjar,2,surprise,1,5
+2,AnD_2,AnD_1_Ganjar_2,Ganjar,3,repression,14,4
+2,AnD_2,AnD_2_Anies_1,Anies,1,surprise,1,5
+2,AnD_2,AnD_2_Anies_1,Anies,2,surprise,1,5
+2,AnD_2,AnD_2_Anies_1,Anies,3,others,23,2
+2,AnD_2,AnD_2_Anies_1,Anies,4,surprise,1+26,5
+2,AnD_2,AnD_2_Anies_1,Anies,5,repression,13,4
+2,AnD_2,AnD_2_Anies_2,Anies,1,surprise,1,5
+2,AnD_2,AnD_2_Prabowo_1,Prabowo,1,happiness,12 half,1
+2,AnD_2,AnD_2_Prabowo_1,Prabowo,2,others,23,2
+2,AnD_2,AnD_2_Prabowo_2,Prabowo,1,surprise,1,5
+2,AnD_2,AnD_3_Ganjar_2,Ganjar,1,others,25,2
+2,AnD_2,AnD_3_Prabowo_1,Prabowo,1,others,25 half ,2
+2,AnD_2,AnD_3_Prabowo_1,Prabowo,2,others,18 half,2
+2,AnD_2,AnD_3_Prabowo_1,Prabowo,3,others,4,2
+2,AnD_2,AnD_3_Prabowo_1,Prabowo,4,others,25 hlaf,2
+2,AnD_2,AnD_3_Prabowo_2,Prabowo,1,happiness,12 half,1
+2,AnD_2,AnD_3_Prabowo_2,Prabowo,2,happiness,12,1
+2,QnA_1,QnA_1_Anies,Anies,1,surprise,1,5
+2,QnA_1,QnA_1_Anies,Anies,2,surprise,1,5
+2,QnA_1,QnA_1_Anies,Anies,3,surprise,1,5
+2,QnA_1,QnA_1_Anies,Anies,4,surprise,1,5
+2,QnA_1,QnA_1_Anies,Anies,7,surprise,1,5
+2,QnA_1,QnA_1_Ganjar,Ganjar,1,others,26,2
+2,QnA_1,QnA_1_Prabowo_1,Prabowo,1,surprise,1,5
+2,QnA_1,QnA_2_Anies,Anies,2,surprise,1,5
+2,QnA_1,QnA_2_Anies,Anies,3,others,26,2
+2,QnA_1,QnA_2_Ganjar_1,Ganjar,1,others,26,2
+2,QnA_1,QnA_2_Ganjar_1,Ganjar,2,happiness,12,1
+2,QnA_1,QnA_2_Ganjar_1,Ganjar,3,others,26,2
+2,QnA_1,QnA_2_Ganjar_1,Ganjar,4,surprise,1,5
+2,QnA_1,QnA_2_Ganjar_2,Ganjar,1,repression,14,4
+2,QnA_1,QnA_2_Ganjar_2,Ganjar,2,others,25,2
+2,QnA_1,QnA_2_Prabowo,Prabowo,1,others,4+lips,2
+2,QnA_1,QnA_2_Prabowo,Prabowo,2,others,26,2
+2,QnA_1,QnA_3_Anies_1,Anies,1,others,23,2
+2,QnA_1,QnA_3_Anies_1,Anies,2,others,24,2
+2,QnA_1,QnA_3_Anies_1,Anies,3,surprise,1,5
+2,QnA_1,QnA_3_Anies_1,Anies,4,others,24,2
+2,QnA_1,QnA_3_Ganjar,Ganjar,1,surprise,1,5
+2,QnA_1,QnA_3_Ganjar,Ganjar,2,repression,14,4
+2,QnA_1,QnA_3_Prabowo,Prabowo,1,happiness,12 nanggung,1
+3,AnD_1,AnD_1_Ganjar_1,Ganjar,1,happiness,12,1
+3,AnD_1,AnD_1_Ganjar_1,Ganjar,2,disgust,10,3
+3,AnD_1,AnD_2_Anies_1,Anies,1,happiness,12,1
+3,AnD_1,AnD_2_Anies_1,Anies,2,others,18 13,2
+3,AnD_1,AnD_2_Anies_2,Anies,1,surprise,1,5
+3,AnD_1,AnD_2_Anies_2,Anies,2,fear,1+20,6
+3,AnD_1,AnD_2_Anies_2,Anies,3,surprise,1,5
+3,AnD_1,AnD_2_Ganjar_1,Ganjar,1,repression,14,4
+3,AnD_1,AnD_2_Ganjar_2,Ganjar,1,disgust,9,3
+3,AnD_1,AnD_3_Anies_1,Anies,1,others,28,2
+3,AnD_1,AnD_3_Anies_1,Anies,2,surprise,1,5
+3,AnD_1,AnD_3_Anies_1,Anies,3,others,28,2
+3,AnD_2,AnD_1_Ganjar_1,Ganjar,1,surprise,1,5
+3,AnD_2,AnD_1_Ganjar_2,Ganjar,2,happiness,12,1
+3,AnD_2,AnD_2_Anies_1,Anies,1,others,23,2
+3,AnD_2,AnD_2_Anies_1,Anies,2,others,25,2
+3,AnD_2,AnD_2_Anies_1,Anies,3,happiness,12,1
+3,AnD_2,AnD_2_Anies_2,Anies,1,happiness,12,1
+3,AnD_2,AnD_2_Ganjar_1,Ganjar,1,happiness,12,1
+3,AnD_2,AnD_2_Ganjar_2,Ganjar,2,disgust,10,3
+3,AnD_2,AnD_3_Anies_1,Anies,1,others,2,2
+3,AnD_2,AnD_3_Anies_1,Anies,2,others,23,2
+3,AnD_2,AnD_3_Prabowo_1,Prabowo,1,surprise,1,5
+3,QnA_1,QnA_1_Anies_1,Anies,1,others,28,2
+3,QnA_1,QnA_1_Anies_2,Anies,1,others,24,2
+3,QnA_1,QnA_1_Ganjar,Ganjar,1,others,20,2
+3,QnA_1,QnA_1_Prabowo,Prabowo,1,happiness,12,1
+3,QnA_1,QnA_1_Prabowo,Prabowo,2,others,16,2
+3,QnA_1,QnA_1_Prabowo,Prabowo,3,others,14 half,2
+3,QnA_1,QnA_2_Ganjar,Ganjar,1,happiness,12,1
+3,QnA_1,QnA_2_Ganjar,Ganjar,3,happiness,12,1
+3,QnA_1,QnA_2_Prabowo_2,Prabowo,1,others,15 half,2
+3,QnA_1,QnA_3_Anies,Anies,1,surprise,1,5
+3,QnA_1,QnA_3_Anies,Anies,2,repression,14,4
+3,QnA_1,QnA_3_Anies,Anies,4,surprise,1,5
+3,QnA_1,QnA_3_Anies,Anies,5,surprise,1,5
+3,QnA_1,QnA_3_Ganjar_1,Ganjar,1,happiness,12,1
+3,QnA_1,QnA_3_Ganjar_1,Ganjar,2,happiness,12,1
+3,QnA_1,QnA_3_Ganjar_2,Ganjar,3,happiness,12,1
+3,QnA_1,QnA_3_Ganjar_2,Ganjar,4,surprise,1,5
+3,QnA_1,QnA_3_Ganjar_2,Ganjar,5,repression,14 half,4

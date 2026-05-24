@@ -1,0 +1,29 @@
+debat,segmen,part,sub,me,eks,au,label
+1,QnA_1,QnA_2_Anies,Anies,2,happiness,12,1
+3,QnA_1,QnA_3_Anies,Anies,3,repression,14,4
+2,QnA_1,QnA_1_Anies,Anies,6,repression,14,4
+2,AnD_2,AnD_1_Anies_1,Anies,1,surprise,1,5
+2,AnD_1,AnD_1_Anies_1,Anies,1,surprise,1,5
+2,AnD_1,AnD_1_Anies_1,Anies,4,surprise,1+26,5
+2,QnA_1,QnA_1_Anies,Anies,5,surprise,1,5
+3,QnA_1,QnA_1_Anies_2,Anies,2,surprise,1,5
+2,QnA_1,QnA_2_Anies,Anies,1,surprise,1,5
+3,QnA_1,QnA_1_Anies_1,Anies,2,surprise,1,5
+2,AnD_1,AnD_2_Anies_1,Anies,1,surprise,1,5
+2,AnD_1,AnD_1_Anies_1,Anies,6,surprise,1+26,5
+2,AnD_1,AnD_1_Anies_2,Anies,3,surprise,1,5
+1,QnA_2,QnA_1_Ganjar_1,Ganjar,1,disgust,1+10,3
+3,QnA_1,QnA_3_Ganjar_1,Ganjar,3,happiness,12,1
+2,AnD_2,AnD_1_Ganjar_2,Ganjar,1,happiness,12,1
+3,QnA_1,QnA_2_Ganjar,Ganjar,2,happiness,12,1
+2,AnD_1,AnD_1_Ganjar_2,Ganjar,2,happiness,6+12,1
+3,QnA_1,QnA_3_Ganjar_2,Ganjar,1,happiness,12,1
+3,AnD_2,AnD_1_Ganjar_1,Ganjar,2,repression,14,4
+3,AnD_2,AnD_2_Ganjar_2,Ganjar,1,repression,14,4
+3,AnD_1,AnD_1_Ganjar_1,Ganjar,3,surprise,1,5
+1,QnA_1,QnA_2_Ganjar_1,Ganjar,2,surprise,1,5
+3,QnA_1,QnA_3_Ganjar_2,Ganjar,2,surprise,1,5
+3,AnD_1,AnD_3_Prabowo_1,Prabowo,1,disgust,10,3
+1,QnA_1,QnA_3_Prabowo,Prabowo,1,happiness,12 half,1
+1,QnA_1,QnA_1_Prabowo_1,Prabowo,1,happiness,12 half,1
+1,QnA_2,QnA_3_Prabowo_2,Prabowo,1,surprise,1+26,5
