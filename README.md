@@ -1,7 +1,7 @@
 # Micro-Expression Recognition with HTNet
 
-**Undergraduate Thesis — Dhia Alif Tegar Abdurrahman**  
-Universitas Airlangga · Department of Information Systems
+**Undergraduate Thesis — Dhia Alif Tajriyaani Azhar**  
+Universitas Airlangga
 
 ---
 
@@ -220,6 +220,5 @@ Training runs were logged to [Weights & Biases](https://wandb.ai) under the proj
 
 ## Author
 
-**Dhia Alif Tegar Abdurrahman**  
-Junior Data Scientist — WRI Indonesia  
+**Dhia Alif Tajriyaani Azhar**  
 [alifazhar74@gmail.com](mailto:alifazhar74@gmail.com)
